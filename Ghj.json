@@ -1,0 +1,41 @@
+{
+  "version": "2.0",
+  "createdAt": "2017-08-17",
+  "rules": [
+    {
+      "origin": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2306/e940c07107a4cefbbedbbd53451e26f0dbf292dcfab6c307.png",
+      "target": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ea836351-f790-45ee-b4c2-a6536c94aa37/dggu8gb-71c17463-4c2d-4568-ad1e-5e57810aa214.jpg/v1/fit/w_828,h_1104,q_70,strp/ken_ryuguji___draken_by_sonicspeed514_dggu8gb-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjgwMCIsInBhdGgiOiJcL2ZcL2VhODM2MzUxLWY3OTAtNDVlZS1iNGMyLWE2NTM2Yzk0YWEzN1wvZGdndThnYi03MWMxNzQ2My00YzJkLTQ1NjgtYWQxZS01ZTU3ODEwYWEyMTQuanBnIiwid2lkdGgiOiI8PTIxMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.wSVC4-psTBE_JDr8CyCqh7xcj5XYeiS-8mWwuRGMQ5Y",
+      "enable": true
+    },
+    {
+      "origin": "fonts.googleapis.com",
+      "target": "fonts.geekzu.org",
+      "enable": true
+    },
+    {
+      "origin": "themes.googleusercontent.com",
+      "target": "gapis.geekzu.org/g-themes",
+      "enable": true
+    },
+    {
+      "origin": "fonts.gstatic.com",
+      "target": "gapis.geekzu.org/g-fonts",
+      "enable": true
+    },
+    {
+      "origin": "www.gravatar.com/avatar",
+      "target": "fdn.geekzu.org/avatar",
+      "enable": true
+    },
+    {
+      "origin": "[0-2].gravatar.com/avatar",
+      "target": "fdn.geekzu.org/avatar",
+      "enable": true
+    },
+    {
+      "origin": "secure.gravatar.com/avatar",
+      "target": "sdn.geekzu.org/avatar",
+      "enable": true
+    }
+  ]
+}
